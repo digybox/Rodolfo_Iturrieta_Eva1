@@ -1,4 +1,3 @@
-git init
-git config --global user.name digybox
-git config --global user.email riturrieta333@gmail.com
+
+
 
